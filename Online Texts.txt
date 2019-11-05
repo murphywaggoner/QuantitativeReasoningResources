@@ -1,0 +1,26 @@
+Textbooks for courses to use as a whole or to extract chapters from.
+
+[Mathematics for the Liberal Arts](https://courses.lumenlearning.com/math4libarts/)
+
+[Math in Society](http://www.opentextbookstore.com/mathinsociety/) *A survey of mathematics for the liberal arts major*
+
+Math in Society is a free, open textbook. This book is a survey of contemporary mathematical topics, 
+most non-algebraic, appropriate for a college-level quantitative literacy topics course for liberal arts majors. 
+The text is designed so that most chapters are independent, allowing the instructor to choose a selection of topics 
+to be covered. Emphasis is placed on the applicability of the mathematics. Core material for each topic is covered in 
+the main text, with additional depth available through exploration exercises appropriate for in-class, group, or 
+individual investigation.
+
+[Mathematical Discovery](http://classicalrealanalysis.info/com/documents/BTB-colorA.pdf)
+
+[An Oxford podcast on the connection between Math and Art](http://podcasts.ox.ac.uk/secret-mathematicians-connections-between-maths-and-arts)
+
+[The Oxford podcasts The Secrets of Mathematics](http://podcasts.ox.ac.uk/series/secrets-mathematics)
+
+[College Mathematics for Everyday Life](https://www.coconino.edu/open-source-textbooks#college-mathematics-for-everyday-life-by-inigo-jameson-kozak-lanzetta-and-sonier)
+
+[Discovering the Art of Mathematics](https://www.artofmathematics.org/)
+
+[Pedagogy in Action: Teaching with Data](https://serc.carleton.edu/sp/library/twd/index.html)
+
+[Pedagogy in Action: Teaching with Spreadsheets](https://serc.carleton.edu/sp/library/spreadsheets/index.html)
